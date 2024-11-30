@@ -1,28 +1,23 @@
-<h3 align="center">For over 3 years I've been helping founders & business owners build the technology powering their organizations. I've developed everything from simple marketing websites to the entire ERP System and everything in between.</h3>
+<h1 align="center">Hi 👋, I'm Yousif Dahabra</h1>
+<h3 align="center">For over 4 years I've been helping founders & business owners build the technology powering their organizations. I've developed everything from simple marketing websites to the entire ERP System and everything in between.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousifdahabra&label=Profile%20views&color=0e75b6&style=flat" alt="yousifdahabra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousifdahabra" alt="yousifdahabra" /></a> </p>
 
-- 🔭 I’m currently working on [#](#)
+- 🌱 I’m currently learning **React, Node Js**
 
-- 🌱 I’m currently learning **React**
+- 👨‍💻 All of my projects are available at [soon](soon)
 
-- 👯 I’m looking to collaborate on [#](#)
-
-- 🤝 I’m looking for help with [#](#)
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/yousif-dahabra](https://www.linkedin.com/in/yousif-dahabra)
 
 - 💬 Ask me about **Laravel, Codeigniter, Vanilla PHP, SQL, MySQL, Build queries**
 
 - 📫 How to reach me **yousifdahabra1@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [soon](soon)
 
-- ⚡ Fun fact **#**
+- ⚡ Fun fact **I'm Batman, or in other words, I work through the night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
