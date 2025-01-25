@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **DevOps**
 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yousif-dahabra](https://www.linkedin.com/in/yousif-dahabra)
-
 - 💬 Ask me about **Laravel, Vue.js 3, Flutter, Codeigniter, Vanilla PHP, SQL, MySQL, Build queries**
 
 - 📫 How to reach me **yousifdahabra1@gmail.com** **yousif.dahabra.97@gmail.com**
