@@ -6,12 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousifdahabra" alt="yousifdahabra" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
-
-
 - 💬 Ask me about **Laravel, Vue.js 3, Flutter, Codeigniter, Vanilla PHP, SQL, MySQL, Build queries**
-
-- 📫 How to reach me **yousifdahabra1@gmail.com** **yousif.dahabra.97@gmail.com**
-
 - ⚡ Fun fact **I'm Batman, or in other words, I work through the night.**
 
  
