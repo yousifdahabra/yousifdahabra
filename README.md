@@ -1,9 +1,4 @@
-<style>
- a{
-  text-decoration: none;
 
- }
-</style>
 <h1 align="center">Hi 👋, I'm Yousif Dahabra</h1>
 <h3 align="center">For over 4 years I've been helping founders & business owners build the technology powering their organizations. I've developed everything from simple marketing websites to the entire ERP System and everything in between.</h3>
 
